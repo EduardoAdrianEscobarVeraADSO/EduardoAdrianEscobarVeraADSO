@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node Js, React, Java/Springboot, PHP/Laravel, Mysql, Nosql, Web scraping with puppeteer and selenium, Python, Web development, Tailwind CSS, Astro, and too more!**
 
-- 👨‍💻 All of my projects are available at [on my git hub ;)](on my git hub ;))
+- 👨‍💻 All of my projects are available at [on my git hub ;)])
 
 - 📫 My E-mail is **eduardoadrianescobar12@gmail.com text me for anything!!**
 
