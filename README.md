@@ -12,6 +12,7 @@
 - ⚡ Fun fact **Brendan Eich created the JavaScript programming language in just 10 days in 1995. Despite how quickly it was developed, today it is one of the most popular languages ​​in the world.**
 
 <h3 align="left">Connect with me:</h3>
+<p>eduardoadrianescobar12@gmail.com</p>
 <p align="left">
 </p>
 
